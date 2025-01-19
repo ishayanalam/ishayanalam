@@ -1,5 +1,4 @@
-# Hi, I'm [Your Name]! 👋
-
+# Hi, I'm Shayan
 Welcome to my GitHub profile! 
 I'm a CS Undergrad with a strong focus on building impactful and scalable applications. Below you'll find a bit more about me, my skills, and the projects I’ve worked on.
 
