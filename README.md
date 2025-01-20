@@ -1,10 +1,8 @@
 <h1 align="center">Hi, I am Shayan</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a CS Undergrad with a strong focus on building impactful and scalable applications. Below you'll find a bit more about me, my skills, and the projects I’ve worked on.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishayanalam&label=Profile%20views&color=0e75b6&style=flat" alt="ishayanalam" /> </p>
+<h3 align="left">Welcome to my GitHub profile! I'm a CS Undergrad with a strong focus on building impactful and scalable applications. Below you'll find a bit more about me, my skills, and the projects I’ve worked on.</h3>
 
 
-<h3 align="left">Connect with me: **ishayanalam@gmail.com**
+<h3 align="left">Connect with me: <strong>ishayanalam@gmail.com</strong>
 </h3>
 <p align="left">
 </p>
@@ -14,4 +12,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishayanalam&show_icons=true&locale=en&layout=compact" alt="ishayanalam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishayanalam&show_icons=true&locale=en" alt="ishayanalam" /></p>
