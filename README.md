@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I am Shayan</h1>
+<br>
 <h3 align="left">Welcome to my GitHub profile! I'm a CS Undergrad with a strong focus on building impactful and scalable applications. Below you'll find a bit more about me, my skills, and the projects I’ve worked on.</h3>
-
+<br>
 
 <p align="left">Connect with me: <strong>ishayanalam@gmail.com</strong>
 </p>
