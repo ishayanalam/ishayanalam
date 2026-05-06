@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🎓 Computer Science and Enginnering Undergraduate (3rd Year) from Bangladesh, passionate about Frontend Development, machine learning, and ethical AI development.<br><br>🔧 Actively building problem-solving skills through coding challenges on competitive programming platforms to strengthen software development fundamentals.<br><br>📚 Currently Exploring: Python for Machine Learning projects, with a strong interest in researching methods to prevent the misuse of AI.<br><br>🔍 Research Interest: Focused on developing ethical frameworks and technical solutions to mitigate risks associated with AI misuse, ensuring responsible and safe AI advancements.
+<br>🎓 Computer Science and Enginnering Undergraduate (Final Year) from Bangladesh, passionate about Frontend Development, machine learning, and ethical AI development.<br><br>🔧 Actively building problem-solving skills through coding challenges on competitive programming platforms to strengthen software development fundamentals.<br><br>📚 Currently Exploring: Python for Machine Learning projects, with a strong interest in researching methods to prevent the misuse of AI.<br><br>🔍 Research Interest: Focused on developing ethical frameworks and technical solutions to mitigate risks associated with AI misuse, ensuring responsible and safe AI advancements.
 
 
 ## 🌐 Socials:
